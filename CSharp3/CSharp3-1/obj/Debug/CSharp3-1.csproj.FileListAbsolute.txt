@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\bin\Debug\CSharp3-1.exe.config
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\bin\Debug\CSharp3-1.exe
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\bin\Debug\CSharp3-1.pdb
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\obj\Debug\CSharp3-1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\obj\Debug\CSharp3-1.exe
+C:\Users\admin\source\repos\CSharp3\CSharp3-1\obj\Debug\CSharp3-1.pdb
