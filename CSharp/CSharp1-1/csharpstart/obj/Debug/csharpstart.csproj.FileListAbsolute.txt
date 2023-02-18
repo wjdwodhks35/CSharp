@@ -1,0 +1,7 @@
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\bin\Debug\csharpstart.exe.config
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\bin\Debug\csharpstart.exe
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\bin\Debug\csharpstart.pdb
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\obj\Debug\csharpstart.csproj.AssemblyReference.cache
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\obj\Debug\csharpstart.csproj.CoreCompileInputs.cache
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\obj\Debug\csharpstart.exe
+C:\Users\dbzld\source\repos\csharpstart\csharpstart\obj\Debug\csharpstart.pdb

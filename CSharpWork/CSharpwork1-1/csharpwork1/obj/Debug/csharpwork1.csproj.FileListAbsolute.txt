@@ -1,0 +1,7 @@
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\bin\Debug\csharpwork1.exe.config
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\bin\Debug\csharpwork1.exe
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\bin\Debug\csharpwork1.pdb
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\obj\Debug\csharpwork1.csproj.AssemblyReference.cache
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\obj\Debug\csharpwork1.csproj.CoreCompileInputs.cache
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\obj\Debug\csharpwork1.exe
+C:\Users\dbzld\source\repos\csharpwork1\csharpwork1\obj\Debug\csharpwork1.pdb

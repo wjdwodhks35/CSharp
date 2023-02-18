@@ -1,0 +1,7 @@
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\obj\Debug\CSharpWork7.csproj.AssemblyReference.cache
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\obj\Debug\CSharpWork7.csproj.CoreCompileInputs.cache
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\bin\Debug\CSharpWork7.exe.config
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\bin\Debug\CSharpWork7.exe
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\bin\Debug\CSharpWork7.pdb
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\obj\Debug\CSharpWork7.exe
+C:\Users\dbzld\source\repos\CSharpWork7\CSharpWork7\obj\Debug\CSharpWork7.pdb

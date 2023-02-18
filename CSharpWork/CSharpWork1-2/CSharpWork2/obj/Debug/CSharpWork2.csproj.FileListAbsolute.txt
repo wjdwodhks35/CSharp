@@ -1,0 +1,7 @@
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\bin\Debug\CSharpWork2.exe.config
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\bin\Debug\CSharpWork2.exe
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\bin\Debug\CSharpWork2.pdb
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\obj\Debug\CSharpWork2.csproj.AssemblyReference.cache
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\obj\Debug\CSharpWork2.csproj.CoreCompileInputs.cache
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\obj\Debug\CSharpWork2.exe
+C:\Users\dbzld\source\repos\CSharpWork2\CSharpWork2\obj\Debug\CSharpWork2.pdb
